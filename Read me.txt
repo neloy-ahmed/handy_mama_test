@@ -1,0 +1,5 @@
+API URL:
+http://yoursite.com/handy_mama_api/v1/call_handy_mama
+
+DB configuration:
+Please configure the db info at require/config.php
