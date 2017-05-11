@@ -1,5 +1,8 @@
 API URL:
 http://yoursite.com/handy_mama_api/v1/call_handy_mama
 
+Purpose of this API:
+To store user input data in database.
+
 DB configuration:
 Please configure the db info at require/config.php
